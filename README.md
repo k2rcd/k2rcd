@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k2rcd
-- 👀 I’m interested in algorithms & web-dev.
+- 👀 I’m interested in algorithms, web-dev & design.
 - 🌱 I’m currently learning HTML, CSS, JavaScript & React.js.
 - 💞️ I’m looking to collaborate on web-developement projects & fun problem solving sessions.
 
