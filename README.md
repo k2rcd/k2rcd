@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ktworcd
+- 👋 Hi, I’m @memoriesdotzip
 - 👀 I’m interested in algorithms, web & design.
 - 🌱 I’m currently learning swift.
 
